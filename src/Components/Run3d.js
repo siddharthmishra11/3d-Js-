@@ -294,7 +294,7 @@ animate();
   })
   return (
      
-    <div className="container-fluid fixed-top header disable-selection">
+    <div className="main container-fluid fixed-top header disable-selection">
     <div className="row">
         <div className="col"></div>
         <div className="col-md-6">
